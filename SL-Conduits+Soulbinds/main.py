@@ -565,13 +565,13 @@ def generateCombos(spec, covenant, soulbind, rank):
                         profileToPrint = profile
                         for potCond in potCondTuple:
                             if (potCond != ''):
-                                profileToPrint += potCond + ":R" + rank + "/"
+                                profileToPrint += potCond + ":" + rank + "/"
                         for finCond in finCondTuple:
                             if (finCond != ''):
-                                profileToPrint += finCond + ":R" + rank + "/"
+                                profileToPrint += finCond + ":" + rank + "/"
                         for endCond in endCondTuple:
                             if (endCond != ''):
-                                profileToPrint += endCond + ":R" + rank + "/"
+                                profileToPrint += endCond + ":" + rank + "/"
                         if (profileToPrint[-1] == '/'):
                             profileToPrint = profileToPrint[:-1]
                         nameToPrint = insertAbbreviatedSoulbindName(profileToPrint)
