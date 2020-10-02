@@ -3,731 +3,731 @@
 ##############################################################
 default_actions=1
 
-copy=KI_SoB_SC_Stomp_AotB
+copy=KI_SoB_SC_Stomp_AotB,talents_beast_mastery
 talents=1111111
 
-copy=KI_SoB_SC_Stomp_KC
+copy=KI_SoB_SC_Stomp_KC,talents_beast_mastery
 talents=1111112
 
-copy=KI_SoB_SC_Stomp_BS
+copy=KI_SoB_SC_Stomp_BS,talents_beast_mastery
 talents=1111113
 
-copy=KI_SoB_SC_Barrage_AotB
+copy=KI_SoB_SC_Barrage_AotB,talents_beast_mastery
 talents=1111121
 
-copy=KI_SoB_SC_Barrage_KC
+copy=KI_SoB_SC_Barrage_KC,talents_beast_mastery
 talents=1111122
 
-copy=KI_SoB_SC_Barrage_BS
+copy=KI_SoB_SC_Barrage_BS,talents_beast_mastery
 talents=1111123
 
-copy=KI_SoB_SC_Stampede_AotB
+copy=KI_SoB_SC_Stampede_AotB,talents_beast_mastery
 talents=1111131
 
-copy=KI_SoB_SC_Stampede_KC
+copy=KI_SoB_SC_Stampede_KC,talents_beast_mastery
 talents=1111132
 
-copy=KI_SoB_SC_Stampede_BS
+copy=KI_SoB_SC_Stampede_BS,talents_beast_mastery
 talents=1111133
 
-copy=KI_SoB_TotH_Stomp_AotB
+copy=KI_SoB_TotH_Stomp_AotB,talents_beast_mastery
 talents=1112111
 
-copy=KI_SoB_TotH_Stomp_KC
+copy=KI_SoB_TotH_Stomp_KC,talents_beast_mastery
 talents=1112112
 
-copy=KI_SoB_TotH_Stomp_BS
+copy=KI_SoB_TotH_Stomp_BS,talents_beast_mastery
 talents=1112113
 
-copy=KI_SoB_TotH_Barrage_AotB
+copy=KI_SoB_TotH_Barrage_AotB,talents_beast_mastery
 talents=1112121
 
-copy=KI_SoB_TotH_Barrage_KC
+copy=KI_SoB_TotH_Barrage_KC,talents_beast_mastery
 talents=1112122
 
-copy=KI_SoB_TotH_Barrage_BS
+copy=KI_SoB_TotH_Barrage_BS,talents_beast_mastery
 talents=1112123
 
-copy=KI_SoB_TotH_Stampede_AotB
+copy=KI_SoB_TotH_Stampede_AotB,talents_beast_mastery
 talents=1112131
 
-copy=KI_SoB_TotH_Stampede_KC
+copy=KI_SoB_TotH_Stampede_KC,talents_beast_mastery
 talents=1112132
 
-copy=KI_SoB_TotH_Stampede_BS
+copy=KI_SoB_TotH_Stampede_BS,talents_beast_mastery
 talents=1112133
 
-copy=KI_SoB_AmoC_Stomp_AotB
+copy=KI_SoB_AmoC_Stomp_AotB,talents_beast_mastery
 talents=1113111
 
-copy=KI_SoB_AmoC_Stomp_KC
+copy=KI_SoB_AmoC_Stomp_KC,talents_beast_mastery
 talents=1113112
 
-copy=KI_SoB_AmoC_Stomp_BS
+copy=KI_SoB_AmoC_Stomp_BS,talents_beast_mastery
 talents=1113113
 
-copy=KI_SoB_AmoC_Barrage_AotB
+copy=KI_SoB_AmoC_Barrage_AotB,talents_beast_mastery
 talents=1113121
 
-copy=KI_SoB_AmoC_Barrage_KC
+copy=KI_SoB_AmoC_Barrage_KC,talents_beast_mastery
 talents=1113122
 
-copy=KI_SoB_AmoC_Barrage_BS
+copy=KI_SoB_AmoC_Barrage_BS,talents_beast_mastery
 talents=1113123
 
-copy=KI_SoB_AmoC_Stampede_AotB
+copy=KI_SoB_AmoC_Stampede_AotB,talents_beast_mastery
 talents=1113131
 
-copy=KI_SoB_AmoC_Stampede_KC
+copy=KI_SoB_AmoC_Stampede_KC,talents_beast_mastery
 talents=1113132
 
-copy=KI_SoB_AmoC_Stampede_BS
+copy=KI_SoB_AmoC_Stampede_BS,talents_beast_mastery
 talents=1113133
 
-copy=KI_OwtP_SC_Stomp_AotB
+copy=KI_OwtP_SC_Stomp_AotB,talents_beast_mastery
 talents=1211111
 
-copy=KI_OwtP_SC_Stomp_KC
+copy=KI_OwtP_SC_Stomp_KC,talents_beast_mastery
 talents=1211112
 
-copy=KI_OwtP_SC_Stomp_BS
+copy=KI_OwtP_SC_Stomp_BS,talents_beast_mastery
 talents=1211113
 
-copy=KI_OwtP_SC_Barrage_AotB
+copy=KI_OwtP_SC_Barrage_AotB,talents_beast_mastery
 talents=1211121
 
-copy=KI_OwtP_SC_Barrage_KC
+copy=KI_OwtP_SC_Barrage_KC,talents_beast_mastery
 talents=1211122
 
-copy=KI_OwtP_SC_Barrage_BS
+copy=KI_OwtP_SC_Barrage_BS,talents_beast_mastery
 talents=1211123
 
-copy=KI_OwtP_SC_Stampede_AotB
+copy=KI_OwtP_SC_Stampede_AotB,talents_beast_mastery
 talents=1211131
 
-copy=KI_OwtP_SC_Stampede_KC
+copy=KI_OwtP_SC_Stampede_KC,talents_beast_mastery
 talents=1211132
 
-copy=KI_OwtP_SC_Stampede_BS
+copy=KI_OwtP_SC_Stampede_BS,talents_beast_mastery
 talents=1211133
 
-copy=KI_OwtP_TotH_Stomp_AotB
+copy=KI_OwtP_TotH_Stomp_AotB,talents_beast_mastery
 talents=1212111
 
-copy=KI_OwtP_TotH_Stomp_KC
+copy=KI_OwtP_TotH_Stomp_KC,talents_beast_mastery
 talents=1212112
 
-copy=KI_OwtP_TotH_Stomp_BS
+copy=KI_OwtP_TotH_Stomp_BS,talents_beast_mastery
 talents=1212113
 
-copy=KI_OwtP_TotH_Barrage_AotB
+copy=KI_OwtP_TotH_Barrage_AotB,talents_beast_mastery
 talents=1212121
 
-copy=KI_OwtP_TotH_Barrage_KC
+copy=KI_OwtP_TotH_Barrage_KC,talents_beast_mastery
 talents=1212122
 
-copy=KI_OwtP_TotH_Barrage_BS
+copy=KI_OwtP_TotH_Barrage_BS,talents_beast_mastery
 talents=1212123
 
-copy=KI_OwtP_TotH_Stampede_AotB
+copy=KI_OwtP_TotH_Stampede_AotB,talents_beast_mastery
 talents=1212131
 
-copy=KI_OwtP_TotH_Stampede_KC
+copy=KI_OwtP_TotH_Stampede_KC,talents_beast_mastery
 talents=1212132
 
-copy=KI_OwtP_TotH_Stampede_BS
+copy=KI_OwtP_TotH_Stampede_BS,talents_beast_mastery
 talents=1212133
 
-copy=KI_OwtP_AmoC_Stomp_AotB
+copy=KI_OwtP_AmoC_Stomp_AotB,talents_beast_mastery
 talents=1213111
 
-copy=KI_OwtP_AmoC_Stomp_KC
+copy=KI_OwtP_AmoC_Stomp_KC,talents_beast_mastery
 talents=1213112
 
-copy=KI_OwtP_AmoC_Stomp_BS
+copy=KI_OwtP_AmoC_Stomp_BS,talents_beast_mastery
 talents=1213113
 
-copy=KI_OwtP_AmoC_Barrage_AotB
+copy=KI_OwtP_AmoC_Barrage_AotB,talents_beast_mastery
 talents=1213121
 
-copy=KI_OwtP_AmoC_Barrage_KC
+copy=KI_OwtP_AmoC_Barrage_KC,talents_beast_mastery
 talents=1213122
 
-copy=KI_OwtP_AmoC_Barrage_BS
+copy=KI_OwtP_AmoC_Barrage_BS,talents_beast_mastery
 talents=1213123
 
-copy=KI_OwtP_AmoC_Stampede_AotB
+copy=KI_OwtP_AmoC_Stampede_AotB,talents_beast_mastery
 talents=1213131
 
-copy=KI_OwtP_AmoC_Stampede_KC
+copy=KI_OwtP_AmoC_Stampede_KC,talents_beast_mastery
 talents=1213132
 
-copy=KI_OwtP_AmoC_Stampede_BS
+copy=KI_OwtP_AmoC_Stampede_BS,talents_beast_mastery
 talents=1213133
 
-copy=KI_Chim_SC_Stomp_AotB
+copy=KI_Chim_SC_Stomp_AotB,talents_beast_mastery
 talents=1311111
 
-copy=KI_Chim_SC_Stomp_KC
+copy=KI_Chim_SC_Stomp_KC,talents_beast_mastery
 talents=1311112
 
-copy=KI_Chim_SC_Stomp_BS
+copy=KI_Chim_SC_Stomp_BS,talents_beast_mastery
 talents=1311113
 
-copy=KI_Chim_SC_Barrage_AotB
+copy=KI_Chim_SC_Barrage_AotB,talents_beast_mastery
 talents=1311121
 
-copy=KI_Chim_SC_Barrage_KC
+copy=KI_Chim_SC_Barrage_KC,talents_beast_mastery
 talents=1311122
 
-copy=KI_Chim_SC_Barrage_BS
+copy=KI_Chim_SC_Barrage_BS,talents_beast_mastery
 talents=1311123
 
-copy=KI_Chim_SC_Stampede_AotB
+copy=KI_Chim_SC_Stampede_AotB,talents_beast_mastery
 talents=1311131
 
-copy=KI_Chim_SC_Stampede_KC
+copy=KI_Chim_SC_Stampede_KC,talents_beast_mastery
 talents=1311132
 
-copy=KI_Chim_SC_Stampede_BS
+copy=KI_Chim_SC_Stampede_BS,talents_beast_mastery
 talents=1311133
 
-copy=KI_Chim_TotH_Stomp_AotB
+copy=KI_Chim_TotH_Stomp_AotB,talents_beast_mastery
 talents=1312111
 
-copy=KI_Chim_TotH_Stomp_KC
+copy=KI_Chim_TotH_Stomp_KC,talents_beast_mastery
 talents=1312112
 
-copy=KI_Chim_TotH_Stomp_BS
+copy=KI_Chim_TotH_Stomp_BS,talents_beast_mastery
 talents=1312113
 
-copy=KI_Chim_TotH_Barrage_AotB
+copy=KI_Chim_TotH_Barrage_AotB,talents_beast_mastery
 talents=1312121
 
-copy=KI_Chim_TotH_Barrage_KC
+copy=KI_Chim_TotH_Barrage_KC,talents_beast_mastery
 talents=1312122
 
-copy=KI_Chim_TotH_Barrage_BS
+copy=KI_Chim_TotH_Barrage_BS,talents_beast_mastery
 talents=1312123
 
-copy=KI_Chim_TotH_Stampede_AotB
+copy=KI_Chim_TotH_Stampede_AotB,talents_beast_mastery
 talents=1312131
 
-copy=KI_Chim_TotH_Stampede_KC
+copy=KI_Chim_TotH_Stampede_KC,talents_beast_mastery
 talents=1312132
 
-copy=KI_Chim_TotH_Stampede_BS
+copy=KI_Chim_TotH_Stampede_BS,talents_beast_mastery
 talents=1312133
 
-copy=KI_Chim_AmoC_Stomp_AotB
+copy=KI_Chim_AmoC_Stomp_AotB,talents_beast_mastery
 talents=1313111
 
-copy=KI_Chim_AmoC_Stomp_KC
+copy=KI_Chim_AmoC_Stomp_KC,talents_beast_mastery
 talents=1313112
 
-copy=KI_Chim_AmoC_Stomp_BS
+copy=KI_Chim_AmoC_Stomp_BS,talents_beast_mastery
 talents=1313113
 
-copy=KI_Chim_AmoC_Barrage_AotB
+copy=KI_Chim_AmoC_Barrage_AotB,talents_beast_mastery
 talents=1313121
 
-copy=KI_Chim_AmoC_Barrage_KC
+copy=KI_Chim_AmoC_Barrage_KC,talents_beast_mastery
 talents=1313122
 
-copy=KI_Chim_AmoC_Barrage_BS
+copy=KI_Chim_AmoC_Barrage_BS,talents_beast_mastery
 talents=1313123
 
-copy=KI_Chim_AmoC_Stampede_AotB
+copy=KI_Chim_AmoC_Stampede_AotB,talents_beast_mastery
 talents=1313131
 
-copy=KI_Chim_AmoC_Stampede_KC
+copy=KI_Chim_AmoC_Stampede_KC,talents_beast_mastery
 talents=1313132
 
-copy=KI_Chim_AmoC_Stampede_BS
+copy=KI_Chim_AmoC_Stampede_BS,talents_beast_mastery
 talents=1313133
 
-copy=AC_SoB_SC_Stomp_AotB
+copy=AC_SoB_SC_Stomp_AotB,talents_beast_mastery
 talents=2111111
 
-copy=AC_SoB_SC_Stomp_KC
+copy=AC_SoB_SC_Stomp_KC,talents_beast_mastery
 talents=2111112
 
-copy=AC_SoB_SC_Stomp_BS
+copy=AC_SoB_SC_Stomp_BS,talents_beast_mastery
 talents=2111113
 
-copy=AC_SoB_SC_Barrage_AotB
+copy=AC_SoB_SC_Barrage_AotB,talents_beast_mastery
 talents=2111121
 
-copy=AC_SoB_SC_Barrage_KC
+copy=AC_SoB_SC_Barrage_KC,talents_beast_mastery
 talents=2111122
 
-copy=AC_SoB_SC_Barrage_BS
+copy=AC_SoB_SC_Barrage_BS,talents_beast_mastery
 talents=2111123
 
-copy=AC_SoB_SC_Stampede_AotB
+copy=AC_SoB_SC_Stampede_AotB,talents_beast_mastery
 talents=2111131
 
-copy=AC_SoB_SC_Stampede_KC
+copy=AC_SoB_SC_Stampede_KC,talents_beast_mastery
 talents=2111132
 
-copy=AC_SoB_SC_Stampede_BS
+copy=AC_SoB_SC_Stampede_BS,talents_beast_mastery
 talents=2111133
 
-copy=AC_SoB_TotH_Stomp_AotB
+copy=AC_SoB_TotH_Stomp_AotB,talents_beast_mastery
 talents=2112111
 
-copy=AC_SoB_TotH_Stomp_KC
+copy=AC_SoB_TotH_Stomp_KC,talents_beast_mastery
 talents=2112112
 
-copy=AC_SoB_TotH_Stomp_BS
+copy=AC_SoB_TotH_Stomp_BS,talents_beast_mastery
 talents=2112113
 
-copy=AC_SoB_TotH_Barrage_AotB
+copy=AC_SoB_TotH_Barrage_AotB,talents_beast_mastery
 talents=2112121
 
-copy=AC_SoB_TotH_Barrage_KC
+copy=AC_SoB_TotH_Barrage_KC,talents_beast_mastery
 talents=2112122
 
-copy=AC_SoB_TotH_Barrage_BS
+copy=AC_SoB_TotH_Barrage_BS,talents_beast_mastery
 talents=2112123
 
-copy=AC_SoB_TotH_Stampede_AotB
+copy=AC_SoB_TotH_Stampede_AotB,talents_beast_mastery
 talents=2112131
 
-copy=AC_SoB_TotH_Stampede_KC
+copy=AC_SoB_TotH_Stampede_KC,talents_beast_mastery
 talents=2112132
 
-copy=AC_SoB_TotH_Stampede_BS
+copy=AC_SoB_TotH_Stampede_BS,talents_beast_mastery
 talents=2112133
 
-copy=AC_SoB_AmoC_Stomp_AotB
+copy=AC_SoB_AmoC_Stomp_AotB,talents_beast_mastery
 talents=2113111
 
-copy=AC_SoB_AmoC_Stomp_KC
+copy=AC_SoB_AmoC_Stomp_KC,talents_beast_mastery
 talents=2113112
 
-copy=AC_SoB_AmoC_Stomp_BS
+copy=AC_SoB_AmoC_Stomp_BS,talents_beast_mastery
 talents=2113113
 
-copy=AC_SoB_AmoC_Barrage_AotB
+copy=AC_SoB_AmoC_Barrage_AotB,talents_beast_mastery
 talents=2113121
 
-copy=AC_SoB_AmoC_Barrage_KC
+copy=AC_SoB_AmoC_Barrage_KC,talents_beast_mastery
 talents=2113122
 
-copy=AC_SoB_AmoC_Barrage_BS
+copy=AC_SoB_AmoC_Barrage_BS,talents_beast_mastery
 talents=2113123
 
-copy=AC_SoB_AmoC_Stampede_AotB
+copy=AC_SoB_AmoC_Stampede_AotB,talents_beast_mastery
 talents=2113131
 
-copy=AC_SoB_AmoC_Stampede_KC
+copy=AC_SoB_AmoC_Stampede_KC,talents_beast_mastery
 talents=2113132
 
-copy=AC_SoB_AmoC_Stampede_BS
+copy=AC_SoB_AmoC_Stampede_BS,talents_beast_mastery
 talents=2113133
 
-copy=AC_OwtP_SC_Stomp_AotB
+copy=AC_OwtP_SC_Stomp_AotB,talents_beast_mastery
 talents=2211111
 
-copy=AC_OwtP_SC_Stomp_KC
+copy=AC_OwtP_SC_Stomp_KC,talents_beast_mastery
 talents=2211112
 
-copy=AC_OwtP_SC_Stomp_BS
+copy=AC_OwtP_SC_Stomp_BS,talents_beast_mastery
 talents=2211113
 
-copy=AC_OwtP_SC_Barrage_AotB
+copy=AC_OwtP_SC_Barrage_AotB,talents_beast_mastery
 talents=2211121
 
-copy=AC_OwtP_SC_Barrage_KC
+copy=AC_OwtP_SC_Barrage_KC,talents_beast_mastery
 talents=2211122
 
-copy=AC_OwtP_SC_Barrage_BS
+copy=AC_OwtP_SC_Barrage_BS,talents_beast_mastery
 talents=2211123
 
-copy=AC_OwtP_SC_Stampede_AotB
+copy=AC_OwtP_SC_Stampede_AotB,talents_beast_mastery
 talents=2211131
 
-copy=AC_OwtP_SC_Stampede_KC
+copy=AC_OwtP_SC_Stampede_KC,talents_beast_mastery
 talents=2211132
 
-copy=AC_OwtP_SC_Stampede_BS
+copy=AC_OwtP_SC_Stampede_BS,talents_beast_mastery
 talents=2211133
 
-copy=AC_OwtP_TotH_Stomp_AotB
+copy=AC_OwtP_TotH_Stomp_AotB,talents_beast_mastery
 talents=2212111
 
-copy=AC_OwtP_TotH_Stomp_KC
+copy=AC_OwtP_TotH_Stomp_KC,talents_beast_mastery
 talents=2212112
 
-copy=AC_OwtP_TotH_Stomp_BS
+copy=AC_OwtP_TotH_Stomp_BS,talents_beast_mastery
 talents=2212113
 
-copy=AC_OwtP_TotH_Barrage_AotB
+copy=AC_OwtP_TotH_Barrage_AotB,talents_beast_mastery
 talents=2212121
 
-copy=AC_OwtP_TotH_Barrage_KC
+copy=AC_OwtP_TotH_Barrage_KC,talents_beast_mastery
 talents=2212122
 
-copy=AC_OwtP_TotH_Barrage_BS
+copy=AC_OwtP_TotH_Barrage_BS,talents_beast_mastery
 talents=2212123
 
-copy=AC_OwtP_TotH_Stampede_AotB
+copy=AC_OwtP_TotH_Stampede_AotB,talents_beast_mastery
 talents=2212131
 
-copy=AC_OwtP_TotH_Stampede_KC
+copy=AC_OwtP_TotH_Stampede_KC,talents_beast_mastery
 talents=2212132
 
-copy=AC_OwtP_TotH_Stampede_BS
+copy=AC_OwtP_TotH_Stampede_BS,talents_beast_mastery
 talents=2212133
 
-copy=AC_OwtP_AmoC_Stomp_AotB
+copy=AC_OwtP_AmoC_Stomp_AotB,talents_beast_mastery
 talents=2213111
 
-copy=AC_OwtP_AmoC_Stomp_KC
+copy=AC_OwtP_AmoC_Stomp_KC,talents_beast_mastery
 talents=2213112
 
-copy=AC_OwtP_AmoC_Stomp_BS
+copy=AC_OwtP_AmoC_Stomp_BS,talents_beast_mastery
 talents=2213113
 
-copy=AC_OwtP_AmoC_Barrage_AotB
+copy=AC_OwtP_AmoC_Barrage_AotB,talents_beast_mastery
 talents=2213121
 
-copy=AC_OwtP_AmoC_Barrage_KC
+copy=AC_OwtP_AmoC_Barrage_KC,talents_beast_mastery
 talents=2213122
 
-copy=AC_OwtP_AmoC_Barrage_BS
+copy=AC_OwtP_AmoC_Barrage_BS,talents_beast_mastery
 talents=2213123
 
-copy=AC_OwtP_AmoC_Stampede_AotB
+copy=AC_OwtP_AmoC_Stampede_AotB,talents_beast_mastery
 talents=2213131
 
-copy=AC_OwtP_AmoC_Stampede_KC
+copy=AC_OwtP_AmoC_Stampede_KC,talents_beast_mastery
 talents=2213132
 
-copy=AC_OwtP_AmoC_Stampede_BS
+copy=AC_OwtP_AmoC_Stampede_BS,talents_beast_mastery
 talents=2213133
 
-copy=AC_Chim_SC_Stomp_AotB
+copy=AC_Chim_SC_Stomp_AotB,talents_beast_mastery
 talents=2311111
 
-copy=AC_Chim_SC_Stomp_KC
+copy=AC_Chim_SC_Stomp_KC,talents_beast_mastery
 talents=2311112
 
-copy=AC_Chim_SC_Stomp_BS
+copy=AC_Chim_SC_Stomp_BS,talents_beast_mastery
 talents=2311113
 
-copy=AC_Chim_SC_Barrage_AotB
+copy=AC_Chim_SC_Barrage_AotB,talents_beast_mastery
 talents=2311121
 
-copy=AC_Chim_SC_Barrage_KC
+copy=AC_Chim_SC_Barrage_KC,talents_beast_mastery
 talents=2311122
 
-copy=AC_Chim_SC_Barrage_BS
+copy=AC_Chim_SC_Barrage_BS,talents_beast_mastery
 talents=2311123
 
-copy=AC_Chim_SC_Stampede_AotB
+copy=AC_Chim_SC_Stampede_AotB,talents_beast_mastery
 talents=2311131
 
-copy=AC_Chim_SC_Stampede_KC
+copy=AC_Chim_SC_Stampede_KC,talents_beast_mastery
 talents=2311132
 
-copy=AC_Chim_SC_Stampede_BS
+copy=AC_Chim_SC_Stampede_BS,talents_beast_mastery
 talents=2311133
 
-copy=AC_Chim_TotH_Stomp_AotB
+copy=AC_Chim_TotH_Stomp_AotB,talents_beast_mastery
 talents=2312111
 
-copy=AC_Chim_TotH_Stomp_KC
+copy=AC_Chim_TotH_Stomp_KC,talents_beast_mastery
 talents=2312112
 
-copy=AC_Chim_TotH_Stomp_BS
+copy=AC_Chim_TotH_Stomp_BS,talents_beast_mastery
 talents=2312113
 
-copy=AC_Chim_TotH_Barrage_AotB
+copy=AC_Chim_TotH_Barrage_AotB,talents_beast_mastery
 talents=2312121
 
-copy=AC_Chim_TotH_Barrage_KC
+copy=AC_Chim_TotH_Barrage_KC,talents_beast_mastery
 talents=2312122
 
-copy=AC_Chim_TotH_Barrage_BS
+copy=AC_Chim_TotH_Barrage_BS,talents_beast_mastery
 talents=2312123
 
-copy=AC_Chim_TotH_Stampede_AotB
+copy=AC_Chim_TotH_Stampede_AotB,talents_beast_mastery
 talents=2312131
 
-copy=AC_Chim_TotH_Stampede_KC
+copy=AC_Chim_TotH_Stampede_KC,talents_beast_mastery
 talents=2312132
 
-copy=AC_Chim_TotH_Stampede_BS
+copy=AC_Chim_TotH_Stampede_BS,talents_beast_mastery
 talents=2312133
 
-copy=AC_Chim_AmoC_Stomp_AotB
+copy=AC_Chim_AmoC_Stomp_AotB,talents_beast_mastery
 talents=2313111
 
-copy=AC_Chim_AmoC_Stomp_KC
+copy=AC_Chim_AmoC_Stomp_KC,talents_beast_mastery
 talents=2313112
 
-copy=AC_Chim_AmoC_Stomp_BS
+copy=AC_Chim_AmoC_Stomp_BS,talents_beast_mastery
 talents=2313113
 
-copy=AC_Chim_AmoC_Barrage_AotB
+copy=AC_Chim_AmoC_Barrage_AotB,talents_beast_mastery
 talents=2313121
 
-copy=AC_Chim_AmoC_Barrage_KC
+copy=AC_Chim_AmoC_Barrage_KC,talents_beast_mastery
 talents=2313122
 
-copy=AC_Chim_AmoC_Barrage_BS
+copy=AC_Chim_AmoC_Barrage_BS,talents_beast_mastery
 talents=2313123
 
-copy=AC_Chim_AmoC_Stampede_AotB
+copy=AC_Chim_AmoC_Stampede_AotB,talents_beast_mastery
 talents=2313131
 
-copy=AC_Chim_AmoC_Stampede_KC
+copy=AC_Chim_AmoC_Stampede_KC,talents_beast_mastery
 talents=2313132
 
-copy=AC_Chim_AmoC_Stampede_BS
+copy=AC_Chim_AmoC_Stampede_BS,talents_beast_mastery
 talents=2313133
 
-copy=DB_SoB_SC_Stomp_AotB
+copy=DB_SoB_SC_Stomp_AotB,talents_beast_mastery
 talents=3111111
 
-copy=DB_SoB_SC_Stomp_KC
+copy=DB_SoB_SC_Stomp_KC,talents_beast_mastery
 talents=3111112
 
-copy=DB_SoB_SC_Stomp_BS
+copy=DB_SoB_SC_Stomp_BS,talents_beast_mastery
 talents=3111113
 
-copy=DB_SoB_SC_Barrage_AotB
+copy=DB_SoB_SC_Barrage_AotB,talents_beast_mastery
 talents=3111121
 
-copy=DB_SoB_SC_Barrage_KC
+copy=DB_SoB_SC_Barrage_KC,talents_beast_mastery
 talents=3111122
 
-copy=DB_SoB_SC_Barrage_BS
+copy=DB_SoB_SC_Barrage_BS,talents_beast_mastery
 talents=3111123
 
-copy=DB_SoB_SC_Stampede_AotB
+copy=DB_SoB_SC_Stampede_AotB,talents_beast_mastery
 talents=3111131
 
-copy=DB_SoB_SC_Stampede_KC
+copy=DB_SoB_SC_Stampede_KC,talents_beast_mastery
 talents=3111132
 
-copy=DB_SoB_SC_Stampede_BS
+copy=DB_SoB_SC_Stampede_BS,talents_beast_mastery
 talents=3111133
 
-copy=DB_SoB_TotH_Stomp_AotB
+copy=DB_SoB_TotH_Stomp_AotB,talents_beast_mastery
 talents=3112111
 
-copy=DB_SoB_TotH_Stomp_KC
+copy=DB_SoB_TotH_Stomp_KC,talents_beast_mastery
 talents=3112112
 
-copy=DB_SoB_TotH_Stomp_BS
+copy=DB_SoB_TotH_Stomp_BS,talents_beast_mastery
 talents=3112113
 
-copy=DB_SoB_TotH_Barrage_AotB
+copy=DB_SoB_TotH_Barrage_AotB,talents_beast_mastery
 talents=3112121
 
-copy=DB_SoB_TotH_Barrage_KC
+copy=DB_SoB_TotH_Barrage_KC,talents_beast_mastery
 talents=3112122
 
-copy=DB_SoB_TotH_Barrage_BS
+copy=DB_SoB_TotH_Barrage_BS,talents_beast_mastery
 talents=3112123
 
-copy=DB_SoB_TotH_Stampede_AotB
+copy=DB_SoB_TotH_Stampede_AotB,talents_beast_mastery
 talents=3112131
 
-copy=DB_SoB_TotH_Stampede_KC
+copy=DB_SoB_TotH_Stampede_KC,talents_beast_mastery
 talents=3112132
 
-copy=DB_SoB_TotH_Stampede_BS
+copy=DB_SoB_TotH_Stampede_BS,talents_beast_mastery
 talents=3112133
 
-copy=DB_SoB_AmoC_Stomp_AotB
+copy=DB_SoB_AmoC_Stomp_AotB,talents_beast_mastery
 talents=3113111
 
-copy=DB_SoB_AmoC_Stomp_KC
+copy=DB_SoB_AmoC_Stomp_KC,talents_beast_mastery
 talents=3113112
 
-copy=DB_SoB_AmoC_Stomp_BS
+copy=DB_SoB_AmoC_Stomp_BS,talents_beast_mastery
 talents=3113113
 
-copy=DB_SoB_AmoC_Barrage_AotB
+copy=DB_SoB_AmoC_Barrage_AotB,talents_beast_mastery
 talents=3113121
 
-copy=DB_SoB_AmoC_Barrage_KC
+copy=DB_SoB_AmoC_Barrage_KC,talents_beast_mastery
 talents=3113122
 
-copy=DB_SoB_AmoC_Barrage_BS
+copy=DB_SoB_AmoC_Barrage_BS,talents_beast_mastery
 talents=3113123
 
-copy=DB_SoB_AmoC_Stampede_AotB
+copy=DB_SoB_AmoC_Stampede_AotB,talents_beast_mastery
 talents=3113131
 
-copy=DB_SoB_AmoC_Stampede_KC
+copy=DB_SoB_AmoC_Stampede_KC,talents_beast_mastery
 talents=3113132
 
-copy=DB_SoB_AmoC_Stampede_BS
+copy=DB_SoB_AmoC_Stampede_BS,talents_beast_mastery
 talents=3113133
 
-copy=DB_OwtP_SC_Stomp_AotB
+copy=DB_OwtP_SC_Stomp_AotB,talents_beast_mastery
 talents=3211111
 
-copy=DB_OwtP_SC_Stomp_KC
+copy=DB_OwtP_SC_Stomp_KC,talents_beast_mastery
 talents=3211112
 
-copy=DB_OwtP_SC_Stomp_BS
+copy=DB_OwtP_SC_Stomp_BS,talents_beast_mastery
 talents=3211113
 
-copy=DB_OwtP_SC_Barrage_AotB
+copy=DB_OwtP_SC_Barrage_AotB,talents_beast_mastery
 talents=3211121
 
-copy=DB_OwtP_SC_Barrage_KC
+copy=DB_OwtP_SC_Barrage_KC,talents_beast_mastery
 talents=3211122
 
-copy=DB_OwtP_SC_Barrage_BS
+copy=DB_OwtP_SC_Barrage_BS,talents_beast_mastery
 talents=3211123
 
-copy=DB_OwtP_SC_Stampede_AotB
+copy=DB_OwtP_SC_Stampede_AotB,talents_beast_mastery
 talents=3211131
 
-copy=DB_OwtP_SC_Stampede_KC
+copy=DB_OwtP_SC_Stampede_KC,talents_beast_mastery
 talents=3211132
 
-copy=DB_OwtP_SC_Stampede_BS
+copy=DB_OwtP_SC_Stampede_BS,talents_beast_mastery
 talents=3211133
 
-copy=DB_OwtP_TotH_Stomp_AotB
+copy=DB_OwtP_TotH_Stomp_AotB,talents_beast_mastery
 talents=3212111
 
-copy=DB_OwtP_TotH_Stomp_KC
+copy=DB_OwtP_TotH_Stomp_KC,talents_beast_mastery
 talents=3212112
 
-copy=DB_OwtP_TotH_Stomp_BS
+copy=DB_OwtP_TotH_Stomp_BS,talents_beast_mastery
 talents=3212113
 
-copy=DB_OwtP_TotH_Barrage_AotB
+copy=DB_OwtP_TotH_Barrage_AotB,talents_beast_mastery
 talents=3212121
 
-copy=DB_OwtP_TotH_Barrage_KC
+copy=DB_OwtP_TotH_Barrage_KC,talents_beast_mastery
 talents=3212122
 
-copy=DB_OwtP_TotH_Barrage_BS
+copy=DB_OwtP_TotH_Barrage_BS,talents_beast_mastery
 talents=3212123
 
-copy=DB_OwtP_TotH_Stampede_AotB
+copy=DB_OwtP_TotH_Stampede_AotB,talents_beast_mastery
 talents=3212131
 
-copy=DB_OwtP_TotH_Stampede_KC
+copy=DB_OwtP_TotH_Stampede_KC,talents_beast_mastery
 talents=3212132
 
-copy=DB_OwtP_TotH_Stampede_BS
+copy=DB_OwtP_TotH_Stampede_BS,talents_beast_mastery
 talents=3212133
 
-copy=DB_OwtP_AmoC_Stomp_AotB
+copy=DB_OwtP_AmoC_Stomp_AotB,talents_beast_mastery
 talents=3213111
 
-copy=DB_OwtP_AmoC_Stomp_KC
+copy=DB_OwtP_AmoC_Stomp_KC,talents_beast_mastery
 talents=3213112
 
-copy=DB_OwtP_AmoC_Stomp_BS
+copy=DB_OwtP_AmoC_Stomp_BS,talents_beast_mastery
 talents=3213113
 
-copy=DB_OwtP_AmoC_Barrage_AotB
+copy=DB_OwtP_AmoC_Barrage_AotB,talents_beast_mastery
 talents=3213121
 
-copy=DB_OwtP_AmoC_Barrage_KC
+copy=DB_OwtP_AmoC_Barrage_KC,talents_beast_mastery
 talents=3213122
 
-copy=DB_OwtP_AmoC_Barrage_BS
+copy=DB_OwtP_AmoC_Barrage_BS,talents_beast_mastery
 talents=3213123
 
-copy=DB_OwtP_AmoC_Stampede_AotB
+copy=DB_OwtP_AmoC_Stampede_AotB,talents_beast_mastery
 talents=3213131
 
-copy=DB_OwtP_AmoC_Stampede_KC
+copy=DB_OwtP_AmoC_Stampede_KC,talents_beast_mastery
 talents=3213132
 
-copy=DB_OwtP_AmoC_Stampede_BS
+copy=DB_OwtP_AmoC_Stampede_BS,talents_beast_mastery
 talents=3213133
 
-copy=DB_Chim_SC_Stomp_AotB
+copy=DB_Chim_SC_Stomp_AotB,talents_beast_mastery
 talents=3311111
 
-copy=DB_Chim_SC_Stomp_KC
+copy=DB_Chim_SC_Stomp_KC,talents_beast_mastery
 talents=3311112
 
-copy=DB_Chim_SC_Stomp_BS
+copy=DB_Chim_SC_Stomp_BS,talents_beast_mastery
 talents=3311113
 
-copy=DB_Chim_SC_Barrage_AotB
+copy=DB_Chim_SC_Barrage_AotB,talents_beast_mastery
 talents=3311121
 
-copy=DB_Chim_SC_Barrage_KC
+copy=DB_Chim_SC_Barrage_KC,talents_beast_mastery
 talents=3311122
 
-copy=DB_Chim_SC_Barrage_BS
+copy=DB_Chim_SC_Barrage_BS,talents_beast_mastery
 talents=3311123
 
-copy=DB_Chim_SC_Stampede_AotB
+copy=DB_Chim_SC_Stampede_AotB,talents_beast_mastery
 talents=3311131
 
-copy=DB_Chim_SC_Stampede_KC
+copy=DB_Chim_SC_Stampede_KC,talents_beast_mastery
 talents=3311132
 
-copy=DB_Chim_SC_Stampede_BS
+copy=DB_Chim_SC_Stampede_BS,talents_beast_mastery
 talents=3311133
 
-copy=DB_Chim_TotH_Stomp_AotB
+copy=DB_Chim_TotH_Stomp_AotB,talents_beast_mastery
 talents=3312111
 
-copy=DB_Chim_TotH_Stomp_KC
+copy=DB_Chim_TotH_Stomp_KC,talents_beast_mastery
 talents=3312112
 
-copy=DB_Chim_TotH_Stomp_BS
+copy=DB_Chim_TotH_Stomp_BS,talents_beast_mastery
 talents=3312113
 
-copy=DB_Chim_TotH_Barrage_AotB
+copy=DB_Chim_TotH_Barrage_AotB,talents_beast_mastery
 talents=3312121
 
-copy=DB_Chim_TotH_Barrage_KC
+copy=DB_Chim_TotH_Barrage_KC,talents_beast_mastery
 talents=3312122
 
-copy=DB_Chim_TotH_Barrage_BS
+copy=DB_Chim_TotH_Barrage_BS,talents_beast_mastery
 talents=3312123
 
-copy=DB_Chim_TotH_Stampede_AotB
+copy=DB_Chim_TotH_Stampede_AotB,talents_beast_mastery
 talents=3312131
 
-copy=DB_Chim_TotH_Stampede_KC
+copy=DB_Chim_TotH_Stampede_KC,talents_beast_mastery
 talents=3312132
 
-copy=DB_Chim_TotH_Stampede_BS
+copy=DB_Chim_TotH_Stampede_BS,talents_beast_mastery
 talents=3312133
 
-copy=DB_Chim_AmoC_Stomp_AotB
+copy=DB_Chim_AmoC_Stomp_AotB,talents_beast_mastery
 talents=3313111
 
-copy=DB_Chim_AmoC_Stomp_KC
+copy=DB_Chim_AmoC_Stomp_KC,talents_beast_mastery
 talents=3313112
 
-copy=DB_Chim_AmoC_Stomp_BS
+copy=DB_Chim_AmoC_Stomp_BS,talents_beast_mastery
 talents=3313113
 
-copy=DB_Chim_AmoC_Barrage_AotB
+copy=DB_Chim_AmoC_Barrage_AotB,talents_beast_mastery
 talents=3313121
 
-copy=DB_Chim_AmoC_Barrage_KC
+copy=DB_Chim_AmoC_Barrage_KC,talents_beast_mastery
 talents=3313122
 
-copy=DB_Chim_AmoC_Barrage_BS
+copy=DB_Chim_AmoC_Barrage_BS,talents_beast_mastery
 talents=3313123
 
-copy=DB_Chim_AmoC_Stampede_AotB
+copy=DB_Chim_AmoC_Stampede_AotB,talents_beast_mastery
 talents=3313131
 
-copy=DB_Chim_AmoC_Stampede_KC
+copy=DB_Chim_AmoC_Stampede_KC,talents_beast_mastery
 talents=3313132
 
-copy=DB_Chim_AmoC_Stampede_BS
+copy=DB_Chim_AmoC_Stampede_BS,talents_beast_mastery
 talents=3313133

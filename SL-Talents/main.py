@@ -63,10 +63,10 @@ if spec == None:
 print('Do you want to include covenant baseline abilities? y/n')
 covenantSelection = input()
 includeCovenants = True if covenantSelection == 'y' else False
-print('Do you want the output to be done in profilesets? y/n')
-profileSetSelection = input()
-doProfileSets = True if profileSetSelection == 'y' else False
-
+#print('Do you want the output to be done in profilesets? y/n')
+#profileSetSelection = input()
+#doProfileSets = True if profileSetSelection == 'y' else False
+doProfileSets = False
 
 with open(spec + '/' + spec + '_talents' + ('_covenants' if includeCovenants else '') + ('_profilesets' if doProfileSets else '_copy') + '.simc', 'w') as outputfile:
   for talents in itertools.product(*options):
@@ -84,12 +84,17 @@ with open(spec + '/' + spec + '_talents' + ('_covenants' if includeCovenants els
     else:
       if includeCovenants:
         for c in covenants:
-          profile += "\n" + "copy=" + c + "_" + temp_names + "\n"
+          profile += "\n" + "copy=" + c + "_" + temp_names
+          profile += ",talents_" + spec + "\n"
           profile += "talents=" + ''.join(map(str, talents)) + "\n"
           profile += "covenant=" + c + "\n"
       else:
-        profile += "\n" + "copy=" + temp_names + "\n"
+        profile += "\n" + "copy=" + temp_names
+        profile += ",talents_" + spec + "\n"
         profile += "talents=" + ''.join(map(str, talents)) + "\n"
+        
+        #profile += "talents=" + ''.join(map(str, talents)) + '",talents_' + specs + "\n"
+        #outputfile.write('copy="' + nameToPrint + '"' + ',bm_covenant_' + covenant + '\n' + 'soulbind=')
 
   outputfile.write("##############################################################")
   outputfile.write("\n#Replace this with your desired base profile /simc etc \n")
