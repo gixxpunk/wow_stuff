@@ -575,7 +575,7 @@ def generateCombos(spec, covenant, soulbind, rank):
                         if (profileToPrint[-1] == '/'):
                             profileToPrint = profileToPrint[:-1]
                         nameToPrint = insertAbbreviatedSoulbindName(profileToPrint)
-                        outputfile.write('copy="' + nameToPrint + '"' + ',bm_covenant_' + covenant + '\n' + 'soulbind=')
+                        outputfile.write('copy="' + nameToPrint + '"' + ',covenant_' + covenant + '\n' + 'soulbind=')
                         outputfile.write(profileToPrint + '\n')
 
 if __name__ == "__main__":
