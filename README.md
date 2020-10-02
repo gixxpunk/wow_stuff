@@ -1,2 +1,2 @@
 # wow-stuff
-hunter wow stuff for simc
+Hunter wow stuff for simc. Initial idea and implementation by Pewtro.
