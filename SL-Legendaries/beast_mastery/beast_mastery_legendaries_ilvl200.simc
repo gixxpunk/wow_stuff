@@ -1,0 +1,56 @@
+##############################################################
+#Replace this with your desired base profile /simc etc 
+#Rename your simc import to "beast_mastery_legendaries" 
+##############################################################
+default_actions=1
+chart_show_relative_difference=1
+
+
+copy=Dire Command_chest,beast_mastery_legendaries
+chest=,id=172322,bonus_id=7007/6647/6649,ilevel=200
+
+copy=Dire Command_finger1,beast_mastery_legendaries
+finger1=,id=178926,bonus_id=7007/6647/6649,ilevel=200
+
+copy=Flamewaker's Cobra Sting_legs,beast_mastery_legendaries
+legs=,id=172326,bonus_id=7008/6647/6649,ilevel=200
+
+copy=Flamewaker's Cobra Sting_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7008/6647/6649,ilevel=200
+
+copy=Qa'pla Eredun War Order_shoulder,beast_mastery_legendaries
+shoulder=,id=172327,bonus_id=7009/6647/6649,ilevel=200
+
+copy=Qa'pla Eredun War Order_hands,beast_mastery_legendaries
+hands=,id=172324,bonus_id=7009/6647/6649,ilevel=200
+
+copy=Rylakstalker's Piercing Fangs_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7010/6647/6649,ilevel=200
+
+copy=Rylakstalker's Piercing Fangs_back,beast_mastery_legendaries
+back=,id=173242,bonus_id=7010/6647/6649,ilevel=200
+
+copy=Call of the Wild_wrist,beast_mastery_legendaries
+wrist=,id=172329,bonus_id=7003,ilevel=200
+
+copy=Call of the Wild_finger1,beast_mastery_legendaries
+finger1=,id=178926,bonus_id=7003,ilevel=200
+
+copy=Nessingwary's Trapping Apparatus_waist,beast_mastery_legendaries
+waist=,id=172328,bonus_id=7004,ilevel=200
+
+copy=Nessingwary's Trapping Apparatus_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7004,ilevel=200
+
+copy=Soulforge Embers_head,beast_mastery_legendaries
+head=,id=172325,bonus_id=7005,ilevel=200
+
+copy=Soulforge Embers_shoulder,beast_mastery_legendaries
+shoulder=,id=172327,bonus_id=7005,ilevel=200
+
+copy=Craven Strategem_neck,beast_mastery_legendaries
+neck=,id=178927,bonus_id=7006,ilevel=200
+
+copy=Craven Strategem_chest,beast_mastery_legendaries
+chest=,id=172322,bonus_id=7006,ilevel=200
+

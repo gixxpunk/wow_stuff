@@ -1,0 +1,99 @@
+Cloak:
+
+https://shadowlands.wowhead.com/item=173242/grim-veiled-cape
+# Rylakstalker's Cloak (190)
+# back=,id=173242,bonus_id=6716/1487/7010/6649/6647
+# Confounded Rylakstalker's Cloak (190)
+# back=,id=173242,bonus_id=6716/1487/7016/6648/6647
+# Butcher's Bone Fragments Cloak (190)
+# back=,id=173242,bonus_id=6716/1487/7018/6649/6648
+
+### Gear from Bags
+#
+# Latent Poison Injectors (190) haste mastery
+# head=,id=172325,bonus_id=6716/1487/7017/6649/6648
+#
+# Eagletalon's True Focus (190) crit haste
+# head=,id=172325,bonus_id=6716/1487/7011/6649/6647
+#
+# Mask of Soulforge Embers (190) vers mastery
+# head=,id=172325,bonus_id=6716/1487/7005/6648/6650
+#
+# Talisman of Surging Shots (190)
+# neck=,id=178927,bonus_id=6716/1487/7012/6647/6649
+#
+# Amulet of Craven Stratagem (190)
+# neck=,id=178927,bonus_id=6716/1487/7006/6649/6647
+#
+# Soulforge Ember Epaulets (190)
+# shoulder=,id=172327,bonus_id=6716/1487/7005/6648/6650
+#
+# Spaulders of the Eredun War (190)
+# shoulder=,id=172327,bonus_id=6716/1487/7009/6649/6647
+#
+# Shoulderpads of the Serpentstalker (190)
+# shoulder=,id=172327,bonus_id=6716/1487/7013/6649/6647
+#
+# Craven Strategem Chain Vest (190)
+# chest=,id=172322,bonus_id=6716/1487/7006/6647/6648
+#
+# Butcher's Bone Fragments (190)
+# chest=,id=172322,bonus_id=6716/1487/7018/6649/6648
+#
+# Hauberk of Dire Command (190)
+# chest=,id=172322,bonus_id=6716/1487/7007/6649/6647
+#
+# Wristwraps of the Unblinking Vigil (190)
+# wrist=,id=172329,bonus_id=6716/1487/7014/6649/6648
+#
+# Wristwraps of the Wild Call (190)
+# wrist=,id=172329,bonus_id=6716/1487/7003/6649/6647
+#
+# Armguards of Surging Shots (190)
+# wrist=,id=172329,bonus_id=6716/1487/7012/6650/6648
+#
+# Qa'pla, Eredun War Gauntlets (190)
+# hands=,id=172324,bonus_id=6716/1487/7009/6649/6647
+#
+# Handwraps of the Unblinking Vigil (190)
+# hands=,id=172324,bonus_id=6716/1487/7014/6648/6650
+#
+# Latent Poison Injectors (190)
+# hands=,id=172324,bonus_id=6716/1487/7017/6647/6648
+#
+# Tactical Wildfire Battlegear (190)
+# waist=,id=172328,bonus_id=6716/1487/7015/6649/6650
+#
+# Eagletalon's True Focus (190)
+# waist=,id=172328,bonus_id=6716/1487/7011/6649/6647
+#
+# Hemet's Belt of Trapping (190)
+# waist=,id=172328,bonus_id=6716/1487/7004/6649/6650
+#
+# Confounded Rylakstalker's Legguards (190)
+# legs=,id=172326,bonus_id=6716/1487/7016/6648/6647
+#
+# Tactical Wildfire Battlegear (190)
+# legs=,id=172326,bonus_id=6716/1487/7015/6649/6647
+#
+# Flamewaker's Cobraskin Leggings (190)
+# legs=,id=172326,bonus_id=6716/1487/7008/6649/6647
+#
+# Rylakstalker's Treads (190)
+# feet=,id=172323,bonus_id=6716/1487/7010/6649/6647
+#
+# Nessingwary's Trapper Boots (190)
+# feet=,id=172323,bonus_id=6716/1487/7004/6649/6648
+#
+# Flamewaker's Cobra Footpads (190)
+# feet=,id=172323,bonus_id=6716/1487/7008/6649/6647
+#
+# Band of Wild Calling (190)
+# finger1=,id=178926,bonus_id=6716/1487/7003/6649/6647
+#
+# Serpentstalker's Band of Trickery (190)
+# finger1=,id=178926,bonus_id=6716/1487/7013/6649/6647
+#
+# Engraved Loop of Dire Command (190)
+# finger1=,id=178926,bonus_id=6716/1487/7007/6649/6647
+#

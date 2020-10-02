@@ -1,0 +1,33 @@
+##############################################################
+#Replace this with your desired base profile /simc etc 
+#Rename your simc import to "beast_mastery_legendaries" 
+##############################################################
+default_actions=1
+chart_show_relative_difference=1
+
+
+copy=Dire Command_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7007,ilevel=190
+
+copy=Dire Command_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7007,ilevel=190
+
+copy=Flamewaker's Cobra Sting_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7008,ilevel=190
+
+copy=Flamewaker's Cobra Sting_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7008,ilevel=190
+
+copy=Qa'pla Eredun War Order_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7009,ilevel=190
+
+copy=Qa'pla Eredun War Order_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7009,ilevel=190
+
+copy=Rylakstalker's Piercing Fangs_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7010,ilevel=190
+
+copy=Rylakstalker's Piercing Fangs_feet,beast_mastery_legendaries
+feet=,id=172323,bonus_id=7010,ilevel=190
+
+Generic
