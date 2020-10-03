@@ -1,0 +1,156 @@
+hunter="beast_mastery_trinkets"
+level=60
+race=blood_elf
+region=us
+server=torghast
+role=attack
+
+talents=2112211
+spec=beast_mastery
+
+# covenant=necrolord
+# soulbind=plague_deviser_marileth,323074/185:1/323091/175:1/323081/143:1/253:1/323095
+# soulbind=bonesmith_heirmir,326507/253:1/143:1/326572/157:1/170:1/326512/326514
+# conduits_available=143:1/183:1/185:1/188:1/189:1/192:1/199:1/223:1/224:1/226:1/251:1/252:1/253:1/175:1/178:1/181:1/157:1/166:1/170:1/173:1
+# renown=40
+
+target_error=0.1
+
+head="honorbound_vanguards_helm,id=163447,bonus_id=6662,ilevel=213"
+neck="shaleshell_pendant,id=177165,bonus_id=6662,ilevel=213"
+shoulder="honorbound_vanguards_pauldrons,id=163442,bonus_id=6662,ilevel=213"
+back="honorbound_vanguards_greatcloak,id=163365,bonus_id=6662,ilevel=213"
+chest="honorbound_vanguards_chainmail,id=177159,bonus_id=6662,ilevel=213"
+wrist="honorbound_vanguards_bindings,id=177100,bonus_id=6662,ilevel=213"
+hands="honorbound_vanguards_handguards,id=177108,bonus_id=6662,ilevel=213"
+waist="honorbound_vanguards_chain_belt,id=163452,bonus_id=6662,ilevel=213"
+legs="honorbound_vanguards_leggings,id=177107,bonus_id=6662,ilevel=213"
+feet="honorbound_vanguards_sabatons,id=177109,bonus_id=6662,ilevel=213"
+finger1="sea_sapphire_band,id=177164,bonus_id=6662,ilevel=213"
+finger2="beaten_copper_loop,id=177167,bonus_id=6662/1782,ilevel=213"
+#trinket1="lucky_braid,id=177166,bonus_id=6662/607,ilevel=213"
+#trinket2="enchanted_devilsaur_claw,id=177158,bonus_id=6662/605,ilevel=213"
+main_hand="honorbound_portable_cannon,id=177126,bonus_id=6662,ilevel=213"
+
+chart_show_relative_difference=1
+
+copy="Dreadfire Vessel",beast_mastery_trinkets
+trinket1=,id=184030,bonus_id=6662,ilevel=226
+
+copy="Overcharged Anima Battery",beast_mastery_trinkets
+trinket1=,id=180116,bonus_id=6662,ilevel=226
+
+copy="Hateful Chain",beast_mastery_trinkets
+trinket1=,id=184026,bonus_id=6662,ilevel=226
+
+copy="Empyreal Ordnance",beast_mastery_trinkets
+trinket1=,id=180117,bonus_id=6662,ilevel=226
+
+copy="Macabre Sheet Music",beast_mastery_trinkets
+trinket1=,id=184024,bonus_id=6662,ilevel=226
+
+copy="Darkmoon Deck: Voracity",beast_mastery_trinkets
+trinket1=,id=173087,bonus_id=6662,ilevel=226
+
+copy="Darkmoon Deck: Indomitable",beast_mastery_trinkets
+trinket1=,id=173096,bonus_id=6662,ilevel=226
+
+copy="Phial of Putrefaction",beast_mastery_trinkets
+trinket1=,id=178771,bonus_id=6662,ilevel=226
+
+copy="Infinitely Divisible Ooze",beast_mastery_trinkets
+trinket1=,id=178769,bonus_id=6662,ilevel=226
+
+copy="Withergrove Shardling",beast_mastery_trinkets
+trinket1=,id=183851,bonus_id=6662,ilevel=226
+
+copy="Overflowing Ember Mirror",beast_mastery_trinkets
+trinket1=,id=177657,bonus_id=6662,ilevel=226
+
+copy="Hopebreaker's Badge",beast_mastery_trinkets
+trinket1=,id=177813,bonus_id=6662,ilevel=226
+
+copy="Vial of Caustic Liquid",beast_mastery_trinkets
+trinket1=,id=181503,bonus_id=6662,ilevel=226
+
+copy="Essence Extractor",beast_mastery_trinkets
+trinket1=,id=181334,bonus_id=6662,ilevel=226
+
+copy="Wakener's Frond",beast_mastery_trinkets
+trinket1=,id=181457,bonus_id=6662,ilevel=226
+
+copy="Newcomer's Gladiatorial Badge",beast_mastery_trinkets
+trinket1=,id=175725,bonus_id=6662,ilevel=226
+
+copy="Elder's Stormseed",beast_mastery_trinkets
+trinket1=,id=175727,bonus_id=6662,ilevel=226
+
+copy="Primalist's Kelpling",beast_mastery_trinkets
+trinket1=,id=175726,bonus_id=6662,ilevel=226
+
+copy="Maldraxxian Warhorn",beast_mastery_trinkets
+trinket1=,id=180827,bonus_id=6662,ilevel=226
+
+copy="Stolen Maw Badge",beast_mastery_trinkets
+trinket1=,id=175731,bonus_id=6662,ilevel=226
+
+copy="Agitha's Void-Tinged Speartip",beast_mastery_trinkets
+trinket1=,id=175719,bonus_id=6662,ilevel=226
+
+copy="Misfiring Centurion Controller",beast_mastery_trinkets
+trinket1=,id=173349,bonus_id=6662,ilevel=226
+
+copy="Memory of Past Sins",beast_mastery_trinkets
+trinket1=,id=184025,bonus_id=6662,ilevel=226
+
+copy="Stone Legion Heraldry",beast_mastery_trinkets
+trinket1=,id=184027,bonus_id=6662,ilevel=226
+
+copy="Bottled Chimera Toxin",beast_mastery_trinkets
+trinket1=,id=178742,bonus_id=6662,ilevel=226
+
+copy="Master Duelist's Chit",beast_mastery_trinkets
+trinket1=,id=175730,bonus_id=6662,ilevel=226
+
+copy="Ascended Defender's Crest",beast_mastery_trinkets
+trinket1=,id=175718,bonus_id=6662,ilevel=226
+
+copy="Shadowgrasp Totem",beast_mastery_trinkets
+trinket1=,id=179356,bonus_id=6662,ilevel=226
+
+copy="Mistcaller Ocarina",beast_mastery_trinkets
+trinket1=,id=178715,bonus_id=6662,ilevel=226
+
+copy="Dreamer's Mending",beast_mastery_trinkets
+trinket1=,id=182455,bonus_id=6662,ilevel=226
+
+copy="Murmurs in the Dark",beast_mastery_trinkets
+trinket1=,id=182454,bonus_id=6662,ilevel=226
+
+copy="Everchill Brambles",beast_mastery_trinkets
+trinket1=,id=182452,bonus_id=6662,ilevel=226
+
+copy="Rotbriar Sprout",beast_mastery_trinkets
+trinket1=,id=175729,bonus_id=6662,ilevel=226
+
+copy="Brimming Ember Shard",beast_mastery_trinkets
+trinket1=,id=181360,bonus_id=6662,ilevel=226
+
+copy="Siphoning Blood-Drinker",beast_mastery_trinkets
+trinket1=,id=184279,bonus_id=6662,ilevel=226
+
+copy="Beating Abomination Core",beast_mastery_trinkets
+trinket1=,id=181507,bonus_id=6662,ilevel=226
+
+copy="Flame of Battle",beast_mastery_trinkets
+trinket1=,id=181501,bonus_id=6662,ilevel=226
+
+#borked in simc atm
+#copy="Glowing Endmire Stinger",beast_mastery_trinkets
+#trinket1=,id=179927,bonus_id=6662,ilevel=226
+
+copy="Spiritual Alchemy Stone",beast_mastery_trinkets
+trinket1=,id=175942,bonus_id=6662,ilevel=226
+
+copy="Unstable Arcanocrystal",beast_mastery_trinkets
+trinket1=,id=141482,bonus_id=6662,ilevel=226
