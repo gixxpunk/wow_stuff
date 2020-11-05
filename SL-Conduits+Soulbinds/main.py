@@ -354,145 +354,155 @@ def buildGraph(soulbind):
         paths += list(
             nx.all_simple_paths(
                 soulbindGraph, '325066', '325601', cutoff=None))
-    elif soulbind == necroSoulbinds['1']:
-        soulbindGraph.add_edges_from([('323074', 'endurance1'),
-                                      ('323074', 'potency1'),
+    elif soulbind == necroSoulbinds['1']: #Marileth
+        soulbindGraph.add_edges_from([('323074', 'potency1'),
+                                      ('323074', 'endurance1'),
                                       ('323074', 'finesse1'),
-                                      ('endurance1', '323089'),
                                       ('potency1', '323091'),
+                                      ('endurance1', '323089'),
                                       ('finesse1', '323090'),
-                                      ('323089', 'potency2'),
-                                      ('323091', 'potency2'),
-                                      ('323090', 'potency2'),
-                                      ('potency2', '323079'),
-                                      ('potency2', '323081'),
-                                      ('323079', 'endurance2'),
-                                      ('323081', 'endurance2'),
-                                      ('endurance2', 'endurance3'),
-                                      ('endurance2', 'finesse2'),
+                                      ('323091', 'endurance2'),
+                                      ('323089', 'endurance2'),
+                                      ('323090', 'endurance2'),
+                                      ('endurance2', '323079'),
+                                      ('endurance2', '323081'),
+                                      ('323079', 'potency2'),
+                                      ('323081', 'potency2'),
+                                      ('potency2', 'endurance3'),
+                                      ('potency2', 'finesse2'),
                                       ('endurance3', '323095'),
                                       ('finesse2', '323095')])
         paths = list(
             nx.all_simple_paths(
                 soulbindGraph, '323074', '323095', cutoff=None))
-    elif soulbind == necroSoulbinds['2']:
-        soulbindGraph.add_edges_from([('323921', 'potency1'),
-                                      ('341650', 'endurance1'),
-                                      ('potency1', 'finesse1'),
-                                      ('endurance1', 'finesse1'),
-                                      ('finesse1', '323918'),
-                                      ('finesse1', '323919'),
-                                      ('finesse1', '323916'),
-                                      ('323918', 'potency2'),
-                                      ('323919', 'endurance2'),
-                                      ('323916', 'finesse2'),                                      
-                                      ('potency2', 'endurance3'),
+    elif soulbind == necroSoulbinds['2']: #Emeni
+        soulbindGraph.add_edges_from([('342156', 'potency1'),
+                                      ('342156', 'endurance1'),
+                                      ('potency1', '323921'),
+                                      ('endurance1', '341650'),
+                                      ('323921', 'finesse1'),
+                                      ('341650', 'finesse1'),
+                                      ('finesse1', '324440'),
+                                      ('finesse1', '324441'),
+                                      ('324440', 'endurance2'),
+                                      ('324441', 'endurance2'),                                      
+                                      ('endurance2', 'potency2'),
                                       ('endurance2', 'endurance3'),
-                                      ('finesse2', 'endurance3'),                                            
-                                      ('endurance3', '324440'),
-                                      ('endurance3', '324441'),
-                                      ('324440', '342156'),
-                                      ('324441', '342156')])
+                                      ('endurance2', 'finesse2'),                                            
+                                      ('potency2', '323918'),
+                                      ('endurance3', '323919'),
+                                      ('finesse2', '323916')])
         paths = list(
             nx.all_simple_paths(
-                soulbindGraph, '323921', '342156', cutoff=None))
+                soulbindGraph, '342156', '323918', cutoff=None))
         paths += list(
             nx.all_simple_paths(
-                soulbindGraph, '341650', '342156', cutoff=None))
-    elif soulbind == necroSoulbinds['3']:
-        soulbindGraph.add_edges_from([('326504', 'endurance1'),
-                                      ('326507', 'potency1'),
-                                      ('endurance1', 'finesse1'),
-                                      ('potency1', 'finesse1'),
-                                      ('finesse1', '326509'),
-                                      ('finesse1', '326511'),
-                                      ('finesse1', '326572'),
-                                      ('326509', 'finesse2'),
-                                      ('326511', 'potency2'),
-                                      ('326572', 'endurance2'),
-                                      ('finesse2', 'endurance3'),
-                                      ('potency2', 'endurance3'),
+                soulbindGraph, '342156', '323919', cutoff=None))
+        paths += list(
+            nx.all_simple_paths(
+                soulbindGraph, '342156', '323916', cutoff=None))
+    elif soulbind == necroSoulbinds['3']: #Heirmir
+        soulbindGraph.add_edges_from([('326514', 'potency1'),
+                                      ('326514', 'endurance1'),
+                                      ('potency1', '326507'),
+                                      ('endurance1', '326504'),
+                                      ('326507', 'finesse1'),
+                                      ('326504', 'finesse1'),
+                                      ('finesse1', '326512'),
+                                      ('finesse1', '326513'),
+                                      ('326512', 'endurance2'),
+                                      ('326513', 'endurance2'),
+                                      ('endurance2', 'potency2'),
                                       ('endurance2', 'endurance3'),
-                                      ('endurance3', '326512'),
-                                      ('endurance3', '326513'),
-                                      ('326512', '326514'),
-                                      ('326513', '326514')])
+                                      ('endurance2', 'finesse2'),
+                                      ('potency2', '326511'),
+                                      ('endurance3', '326572'),
+                                      ('finesse2', '326509')])
         paths = list(
             nx.all_simple_paths(
-                soulbindGraph, '326504', '326514', cutoff=None))
+                soulbindGraph, '326514', '326511', cutoff=None))
         paths += list(
             nx.all_simple_paths(
-                soulbindGraph, '326507', '326514', cutoff=None))
-    elif soulbind == venthyrSoulbinds['1']:
-        soulbindGraph.add_edges_from([('331576', 'potency1'),
-                                      ('331577', 'endurance1'),
-                                      ('potency1', 'finesse1'),
-                                      ('endurance1', 'finesse1'),
+                soulbindGraph, '326514', '326572', cutoff=None))
+        paths += list(
+            nx.all_simple_paths(
+                soulbindGraph, '326514', '326509', cutoff=None))
+    elif soulbind == venthyrSoulbinds['1']: #Nadjia 
+        soulbindGraph.add_edges_from([('331586', 'potency1'),
+                                      ('331586', 'endurance1'),
+                                      ('potency1', '331576'),
+                                      ('endurance1', '331577'),
+                                      ('331576', 'finesse1'),
+                                      ('331577', 'finesse1'),
                                       ('finesse1', '331579'),
                                       ('331579', 'endurance2'),
-                                      ('331579', 'potency2'),
-                                      ('331579', 'finesse2'),
-                                      ('endurance2', '331580'),
-                                      ('potency2', '331582'),
-                                      ('finesse2', '331584'),
-                                      ('331580', 'endurance3'),
-                                      ('331582', 'endurance3'),
-                                      ('331584', 'endurance3'),
-                                      ('endurance3', '331586')])
-        paths = list(
-            nx.all_simple_paths(
-                soulbindGraph, '331576', '331586', cutoff=None))
-        paths += list(
-            nx.all_simple_paths(
-                soulbindGraph, '331577', '331586', cutoff=None))
-    elif soulbind == venthyrSoulbinds['2']:
-        soulbindGraph.add_edges_from([('336140', 'endurance1'),
-                                      ('336147', 'finesse1'),
-                                      ('endurance1', 'potency1'),
-                                      ('finesse1', 'potency1'),
-                                      ('potency1', '336243'),
-                                      ('potency1', '336239'),
-                                      ('potency1', '336245'),
-                                      ('336243', 'endurance2'),
-                                      ('336239', 'finesse2'),
-                                      ('336245', 'potency2'),
-                                      ('endurance2', 'endurance3'),
-                                      ('finesse2', 'endurance3'),
-                                      ('potency2', 'endurance3'),
-                                      ('endurance3', '336247'),
-                                      ('endurance3', '336184'),
-                                      ('336247', '319983'),
-                                      ('336184', '319983')])
-        paths = list(
-            nx.all_simple_paths(
-                soulbindGraph, '336140', '319983', cutoff=None))
-        paths += list(
-            nx.all_simple_paths(
-                soulbindGraph, '336147', '319983', cutoff=None))
-    elif soulbind == venthyrSoulbinds['3']:
-        soulbindGraph.add_edges_from([('332755', 'endurance1'),
-                                      ('332756', 'endurance1'),
-                                      ('endurance1', '319973'),
-                                      ('endurance1', '332753'),
-                                      ('endurance1', '332754'),
-                                      ('319973', 'finesse1'),
-                                      ('332753', 'endurance2'),
-                                      ('332754', 'potency1'),
-                                      ('finesse1', 'potency2'),
                                       ('endurance2', 'potency2'),
-                                      ('potency1', 'potency2'),
-                                      ('potency2', '319978'),
-                                      ('potency2', '319982'),
-                                      ('319978', 'finesse2'),
-                                      ('319982', 'endurance3'),
-                                      ('finesse2', '340159'),
-                                      ('endurance3', '340159')])
+                                      ('endurance2', 'endurance3'),
+                                      ('endurance2', 'finesse2'),
+                                      ('potency2', '331582'),
+                                      ('endurance3', '331580'),
+                                      ('finesse2', '331584')])
         paths = list(
             nx.all_simple_paths(
-                soulbindGraph, '332755', '340159', cutoff=None))
+                soulbindGraph, '331586', '331582', cutoff=None))
         paths += list(
             nx.all_simple_paths(
-                soulbindGraph, '332756', '340159', cutoff=None))
+                soulbindGraph, '331586', '331580', cutoff=None))
+        paths += list(
+            nx.all_simple_paths(
+                soulbindGraph, '331586', '331584', cutoff=None))
+    elif soulbind == venthyrSoulbinds['2']: #Theotar
+        soulbindGraph.add_edges_from([('336239', 'endurance1'),
+                                      ('336239', 'finesse1'),
+                                      ('endurance1', '336140'),
+                                      ('finesse1', '336147'),
+                                      ('336140', 'potency1'),
+                                      ('336147', 'potency1'),
+                                      ('potency1', '336247'),
+                                      ('potency1', '336184'),
+                                      ('336247', 'endurance2'),
+                                      ('336184', 'endurance2'),
+                                      ('endurance2', 'potency2'),
+                                      ('endurance2', 'endurance3'),
+                                      ('endurance2', 'finesse2'),
+                                      ('potency2', '336245'),
+                                      ('endurance3', '336243'),
+                                      ('endurance3', '319983')])
+        paths = list(
+            nx.all_simple_paths(
+                soulbindGraph, '336239', '336245', cutoff=None))
+        paths += list(
+            nx.all_simple_paths(
+                soulbindGraph, '336239', '336243', cutoff=None))
+        paths += list(
+            nx.all_simple_paths(
+                soulbindGraph, '336239', '319983', cutoff=None))
+    elif soulbind == venthyrSoulbinds['3']: #Draven
+        soulbindGraph.add_edges_from([('340159', 'endurance1'),
+                                      ('340159', 'finesse1'),
+                                      ('endurance1', '319982'),
+                                      ('finesse1', '319978'),
+                                      ('319982', 'potency1'),
+                                      ('319978', 'potency1'),
+                                      ('potency1', '332755'),
+                                      ('potency1', '332756'),
+                                      ('332755', 'endurance2'),
+                                      ('332756', 'endurance2'),
+                                      ('endurance2', 'potency2'),
+                                      ('endurance2', 'endurance3'),
+                                      ('endurance2', 'finesse2'),
+                                      ('potency2', '332754'),
+                                      ('endurance3', '332753'),
+                                      ('finesse2', '319973')])
+        paths = list(
+            nx.all_simple_paths(
+                soulbindGraph, '340159', '332754', cutoff=None))
+        paths += list(
+            nx.all_simple_paths(
+                soulbindGraph, '340159', '332753', cutoff=None))
+        paths += list(
+            nx.all_simple_paths(
+                soulbindGraph, '340159', '319973', cutoff=None))
     return soulbindGraph, paths
 
 
